@@ -1,0 +1,4 @@
+flask
+prompt_toolkit
+prettytable
+pyopenssl
